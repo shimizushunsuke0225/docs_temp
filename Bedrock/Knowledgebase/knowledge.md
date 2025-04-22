@@ -99,3 +99,6 @@ AWS Bedrock の **Knowledge base（ナレッジベース）** 機能は、
 
 ![alt text](image-12.png)
 
+Q&Aについて
+有給日数の規定を教えてください。
+どのファイルの何処に記載がありますか？
