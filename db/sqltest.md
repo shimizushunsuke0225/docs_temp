@@ -11,3 +11,4 @@ pgbench -f users_workload.sql \
         -j 8  \         # スレッド数 (EC2 vCPU 数程度)
         -T 900 \        # テスト時間 900 秒 (=15 分)
         mydatabase
+        
